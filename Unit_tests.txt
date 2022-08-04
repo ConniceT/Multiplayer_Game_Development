@@ -1,0 +1,6 @@
+This can be used to test network set up configs:
+
+
+# net = Network()
+# print(net.send(" hi this is a testing "))
+# print(net.send(" is this working? yess!! "))
